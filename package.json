@@ -1,0 +1,15 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "main": "express_req.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node express_req.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
